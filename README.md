@@ -1,11 +1,9 @@
 # tech_theory
-Here's a **README file** combining all previous sets of questions in the order of **HTML, CSS, JavaScript, React, and Redux**, with precise answers included:
 
 ---
 
 # Frontend Advanced Interview Questions
 
-This repository contains challenging and advanced frontend interview questions designed to test deep understanding of HTML, CSS, JavaScript, React, and Redux. Each section covers tricky, real-world problems and provides precise answers to help guide your preparation.
 
 ---
 
